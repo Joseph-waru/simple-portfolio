@@ -37,7 +37,7 @@ p {
 form {
   margin-top: 50px;
 }
-
+ 
 .feedback-input {
   color: white;
   font-weight: 500;
@@ -79,5 +79,5 @@ textarea {
   font-weight: 700;
 }
 [type="submit"]:hover {
-  background: #3586ff;
+  background: #e4e4e4;
 }
